@@ -21,3 +21,9 @@ This program only analyzes headlines and only for the dates that have news avail
 
 Example output:
 ![](sampleoutput.png)
+
+
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
